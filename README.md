@@ -1,5 +1,10 @@
 # Voron HT 
-Klipper configuration for my Voron HighTower printer (350x350x420)
+Klipper configuration for my Voron 2.4 HighTower printer (350x350x420)
+
+
+![Voron printer with a Gnome](resources/voron-gnome.jpg)
+
+_* banana for reference_
 
 
 ## Setup
